@@ -14,7 +14,7 @@ var Navigation = (props) => {
             <IndexLink to="/" activeClassName="active-link">Timer</IndexLink>
           </li>
           <li className="menu-text">
-            <Link to="/" activeClassName="active-link">Countdown</Link>
+            <Link to="/countdown" activeClassName="active-link">Countdown</Link>
           </li>
         </ul>
       </div>
